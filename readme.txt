@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple
 aa
 add/usr/bin/env
 wdafeature
+release-1.2
