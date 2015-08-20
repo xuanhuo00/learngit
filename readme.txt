@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files
 Creating a new branch is quick.
@@ -8,3 +8,4 @@ aa
 add/usr/bin/env
 wdafeature
 release-1.2
+release-1.2.1
